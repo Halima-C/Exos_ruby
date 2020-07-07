@@ -1,0 +1,31 @@
+exo_01
+exo_02
+puts : ligne différente
+print : même ligne
+
+exo_03
+# : ce qui suit est gris et on ne le voit pas en exécutant
+exo_04
+erreur : exo_04.rb:1: unterminated string meets end of file
+l'oubli du " rend la commande invalide
+
+exo_05
+{} : crée une commande de calcul
+RESTE A FAIRE LES COMMENTAIRES LIGNE PAR LIGNE
+
+exo_06
+on attribue à chacun des termes une valeur, ensuite on multiplie les termes entre eux, ce qui a pour résultat de multiplier les valeurs des termes
+ajout ligne suivante : cela ne fonctionne pas car on multiplie un élément auquel n'a pas été attribué une variable
+
+exo_07
+exo_07a: gets-chomp permet de demander une information à l'utilisateur
+exo_07b : print ">" permet d'ajouter à la demande d'information >
+exo_07c : on a retiré la phrase de question pour conserver uniquement la commande qui permet de demander l'information à l'utilisateur
+
+exo_08
+
+exo_09
+
+exo_10
+
+exo_11
